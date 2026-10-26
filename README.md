@@ -65,7 +65,7 @@ Web application for Zixisoft IT Company
 As a freelancer, I’ve delivered result-oriented solutions for global clients via Upwork and other platforms. I take pride in clear communication, timely delivery, and high-quality code.
 
 📍 [Upwork Profile](https://www.upwork.com/freelancers/~01f5097422eb4711c2?mp_source=share)  
-🌐 [Portfolio Website](https://nakul.framer.ai/)  
+🌐 [Portfolio Website](https://nakul-yadav-portfolio.vercel.app)  
 💬 Always open for interesting freelance collaborations and job opportunities.
 
 ---
@@ -81,5 +81,5 @@ As a freelancer, I’ve delivered result-oriented solutions for global clients v
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nakulydv/)
 - 💻 [Upwork](https://www.upwork.com/freelancers/~01f5097422eb4711c2?mp_source=share)
-- 🌐 [Portfolio](https://nakul.framer.ai/)
+- 🌐 [Portfolio](https://nakul-yadav-portfolio.vercel.app)
 - 📧 Email: nakulyadav9520@gmail.com
